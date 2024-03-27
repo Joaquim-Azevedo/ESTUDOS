@@ -1,12 +1,14 @@
 *{
+    width: auto;
+    max-width: 100vw;
+    height: auto;
     margin: 0;
     padding: 0;
 }
 /* fundo */
 .container{
     background-image: linear-gradient(45deg, blue, red);
-    height: 640px;
-    width: 360px;
+    height: 100vh;
     color: #fff;
 }
 
