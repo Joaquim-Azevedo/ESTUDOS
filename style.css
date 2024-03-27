@@ -46,7 +46,32 @@ h1{
 #container-text{
     position: relative;
     top: 10px;
+}
 
+#nossaData{
+    position: relative;
+    top: 30px;
+    background-color: rgba(0, 0, 0, 0.325);
+    padding: 5px;
+    border: none;
+    border-bottom: solid 2px rgba(255, 255, 255, 0.601);
+    border-radius: 20px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
+}
+
+#meuNome{
+    position: relative;
+    top: 5px;
+    background-color: rgba(0, 0, 0, 0.325);
+    padding: 5px;
+    border: none;
+    border-bottom: solid 2px rgba(255, 255, 255, 0.601);
+    border-radius: 20px;
+    width: 300px;
+    height: 20px;
+    text-align: center;
 }
 
 #validar{
@@ -58,33 +83,5 @@ h1{
     background-color: rgb(88, 116, 255);
     border-radius: 20px;
     padding: 2px;
-    top: 35px
+    top: 60px
 }
-
-#textoData{
-    position: relative;
-    top: 10px;
-    height: 15px;
-}
-
-#nossaData{
-    position: relative;
-    top: 15px;
-    background-color: rgb(255, 255, 255);
-    border: none;
-    border-radius: 20px;
-    height: 20px;
-    width: 150px;
-    text-align: center;
-}
-
-#meuNome{
-    position: relative;
-    background-color: rgb(255, 255, 255);
-    border: none;
-    border-radius: 20px;
-    height: 20px;
-    width: 150px;
-    text-align: center;
-}
-
