@@ -7,8 +7,9 @@ function prosseguir(){
     var nome = meuNome.value;
     var data = datadeNamoro.value;
 
-    if(nome == "Maria" || nome == "maria" || nome == "Maria Clara" || nome == "maria clara" && data == "2021-09-18"){
-        alert('Deu certo!')
+    if(nome == "Maria" || nome == "maria" || nome == "Maria Clara" ||
+    nome == "maria clara" && data == "2021-09-18"){
+        alert('Boa, rs')
         validar()
     } else {
         alert('Algo está errado, verifique suas respostas!\n\nUse seu primeiro e segundo nome ou apenas o primeiro.')
